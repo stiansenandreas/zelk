@@ -1293,6 +1293,7 @@ div[style*="height: 16px;"] + div[style="height: 16px;"] {
 }
 .member-2gU6Ar[aria-expanded="true"] .layout-1qmrhw {
   background-color: var(--background-modifier-selected);
+  color: var(--background-primary);
 }
 .member-2gU6Ar[aria-expanded="true"].offline-22aM7E {
   opacity: 1;
