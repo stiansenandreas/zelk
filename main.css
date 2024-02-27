@@ -1446,7 +1446,7 @@ div[style*="height: 16px;"] + div[style="height: 16px;"] {
   color: var(--interactive-selected) !important;
 }
 .childWrapper-1j_1ub {
-  color: var(--background-primary);
+  color: var(--accent-color);
 }
 .section-3G9aLW, .inset-SbsSFp, .container-S9SaVf {
   background-color: var(--background-tertiary) !important;
